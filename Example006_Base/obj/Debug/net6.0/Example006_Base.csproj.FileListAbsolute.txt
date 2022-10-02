@@ -1,0 +1,15 @@
+/Users/anni/Repositorian/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base
+/Users/anni/Repositorian/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.deps.json
+/Users/anni/Repositorian/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.runtimeconfig.json
+/Users/anni/Repositorian/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.dll
+/Users/anni/Repositorian/Examples/Example006_Base/bin/Debug/net6.0/Example006_Base.pdb
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.AssemblyReference.cache
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfoInputs.cache
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.AssemblyInfo.cs
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.csproj.CoreCompileInputs.cache
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.dll
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/refint/Example006_Base.dll
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.pdb
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/Example006_Base.genruntimeconfig.cache
+/Users/anni/Repositorian/Examples/Example006_Base/obj/Debug/net6.0/ref/Example006_Base.dll
