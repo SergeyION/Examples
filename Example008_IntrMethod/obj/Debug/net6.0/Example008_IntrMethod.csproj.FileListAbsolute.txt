@@ -1,0 +1,15 @@
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/bin/Debug/net6.0/Example008_IntrMethod
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/bin/Debug/net6.0/Example008_IntrMethod.deps.json
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/bin/Debug/net6.0/Example008_IntrMethod.runtimeconfig.json
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/bin/Debug/net6.0/Example008_IntrMethod.dll
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/bin/Debug/net6.0/Example008_IntrMethod.pdb
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/Example008_IntrMethod.csproj.AssemblyReference.cache
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/Example008_IntrMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/Example008_IntrMethod.AssemblyInfoInputs.cache
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/Example008_IntrMethod.AssemblyInfo.cs
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/Example008_IntrMethod.csproj.CoreCompileInputs.cache
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/Example008_IntrMethod.dll
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/refint/Example008_IntrMethod.dll
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/Example008_IntrMethod.pdb
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/Example008_IntrMethod.genruntimeconfig.cache
+/Users/anni/Repositorian/Examples/Example008_IntrMethod/obj/Debug/net6.0/ref/Example008_IntrMethod.dll
