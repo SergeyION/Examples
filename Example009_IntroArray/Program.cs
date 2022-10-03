@@ -25,21 +25,24 @@
             }
         }
 
-        int indexOf(int[] collection, int[] find)
+        int indexOf(int[] collection, int[] find, int v)
         {
             int count = collection.Length;
             int index = 0;
             int position = -1;
             while (index < count)
             {
-                if (collection[index] = int[] find)
-        {
-            position = index;
-            break;
-        }
-        index++;
-    }
-    return position;
+                if (collection[index] = find)
+                {
+                    position = index;
+                    break;
+                }
+                else
+                {
+                    index++;
+                }
+            }
+            return position;
 }
 
 int[] array = new int[10];
